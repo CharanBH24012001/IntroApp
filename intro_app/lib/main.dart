@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
                 child: ListTile(
                   leading: Icon(
                     Icons.phone,
-                    color: Colors.black,
+                    color: Colors.blueAccent,
                   ),
                   title: Text(
                     '+91 8693016797',
